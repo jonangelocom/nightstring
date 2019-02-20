@@ -4,7 +4,8 @@
     { "id": 2, "username": "clark", "password": "clark09", "type": "administrator", "status": 1 }
   ],
   "pages": [
-    "home": {
+    {
+      "title": "home",
       "sections": [
         { 
           "id": 1, 
@@ -23,7 +24,8 @@
         }
       ]
     },
-    "about": {
+    {
+      "title": "about",
       "sections": [
         { 
           "id": 1, 
@@ -42,7 +44,8 @@
         }
       ]
     },
-    "login": {
+    {
+      "title": "login",
       "sections": [
       ]
     }
