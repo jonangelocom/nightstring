@@ -3,7 +3,7 @@
     { "id": 1, "username": "leah", "password": "leah09", "type": "enjoyer", "status": 1 },
     { "id": 2, "username": "clark", "password": "clark09", "type": "administrator", "status": 1 }
   ],
-  "pages": {
+  "pages": [
     "home": {
       "sections": [
         { 
@@ -46,5 +46,5 @@
       "sections": [
       ]
     }
-  }
+  ]
 }
