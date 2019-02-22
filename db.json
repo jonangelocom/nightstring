@@ -12,8 +12,8 @@
       ],
       "status": "active",
       "type": "FullWindowHeightSection",
-      "bg-color": "#483078";
-      "ft-color": "#ffffff";
+      "bg-color": "#483078",
+      "ft-color": "#ffffff"
     },
     { 
       "id": 2, 
@@ -24,8 +24,8 @@
       ],
       "status": "active",
       "type": "FullWindowHeightSection",
-      "bg-color": "#483078";
-      "ft-color": "#ffffff";
+      "bg-color": "#483078",
+      "ft-color": "#ffffff"
     }
   ],
   "about": [
@@ -37,8 +37,8 @@
       ],
       "status": "active",
       "type": "FullWindowHeightSection",
-      "bg-color": "#483078";
-      "ft-color": "#ffffff";
+      "bg-color": "#483078",
+      "ft-color": "#ffffff"
     },
     { 
       "id": 2, 
@@ -49,8 +49,8 @@
       ],
       "status": "active",
       "type": "FullWindowHeightSection",
-      "bg-color": "#483078";
-      "ft-color": "#ffffff";
+      "bg-color": "#483078",
+      "ft-color": "#ffffff"
     }
   ],
   "login": [
