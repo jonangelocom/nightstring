@@ -1,7 +1,7 @@
 {
   "users": [
-    { "id": 1, "username": "leah", "password": "leah09", "type": "enjoyer", "status": 1 },
-    { "id": 2, "username": "clark", "password": "clark09", "type": "administrator", "status": 1 }
+    { "id": 1, "fullname": "leah benner", "username": "leah", "password": "leah09", "type": "enjoyer", "status": 1 },
+    { "id": 2, "fullname": "clark caul", "username": "leah", "password": "clark09", "type": "administrator", "status": 1 }
   ],
   "home": [
     { 
